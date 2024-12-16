@@ -1,0 +1,11 @@
+first have to install node for React
+
+npm(offline) and npx(online)
+
+option1
+npx create-react-app appname
+
+option2
+npm create vite@latest
+npm i or install
+
