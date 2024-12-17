@@ -8,4 +8,9 @@ npx create-react-app appname
 option2
 npm create vite@latest
 npm i or install
+npm run dev
+
+component 
+hooks
+ui application control by react
 
