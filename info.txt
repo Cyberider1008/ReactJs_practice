@@ -12,5 +12,13 @@ npm run dev
 
 component 
 hooks
+<> fragment
 ui application control by react
+Reconcillation - it's diff 2 algo virtualdom and browserdom
+fibre
+VirtualDOM
+Tailwinds link here
+https://tailwindcss.com/docs/guides/vite
+
+props we can reuse component
 
